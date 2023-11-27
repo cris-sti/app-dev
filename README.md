@@ -3,7 +3,7 @@
 >>
 > |Movie|Series|
 > |:-:|:-:|
-> | **[The Dark Knight](https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3)** | **[Prison Break](https://www.imdb.com/title/tt0455275/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_prison%2520)** |
+> | **[The Dark Knight](https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3)** | **[Prison Break](https://www.imdb.com/title/tt0455275/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_prison%2520){:target="_blank" rel="noopener"}** |
 
 > ### *Top 2*
 >>
